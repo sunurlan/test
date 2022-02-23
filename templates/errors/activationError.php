@@ -1,0 +1,1 @@
+<h1 style="color:red;">Ошибка!<br><?= $message ?? '' ?></h1>
